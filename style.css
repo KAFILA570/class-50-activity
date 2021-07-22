@@ -1,0 +1,21 @@
+
+h1 {
+    color: rgb(62, 129, 187);
+}
+.topper{
+    display:flex;
+    background-color: chocolate;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+h2,p{
+    text-align: center;
+}
